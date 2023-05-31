@@ -1,12 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
   <h3><b>SetUp Linters</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -23,14 +19,11 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -94,15 +87,6 @@ Install this project with:
 
 To run the project, execute the following command:
   open index.html
-### Run tests
-
-To run tests, run the following command:
-  no test
-
-### Deployment
-
-You can deploy this project using:
-  no deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
